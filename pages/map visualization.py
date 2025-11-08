@@ -148,7 +148,3 @@ if st.button("Generate Map"):
                 (/≧▽≦)/ Successfully generated a city connection map with {len(selected_cities)} cities in {province}!
             </div>
         """, unsafe_allow_html=True)
-
-
-
-
